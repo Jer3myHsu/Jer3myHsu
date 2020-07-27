@@ -40,16 +40,12 @@ app.get("/cards", function (req, res) {
     output += svg[i];
     output += card.value;
     output += svg[i + 1];
-    output += card.suite + ".svg";
+    output += fs.readFileSync(__dirname + "/images/" + card.suite + ".svg", 'utf8').split("?>")[1];
     output += svg[i + 2];
   }
   output += svg[16];
   fs.writeFileSync(__dirname + "/images/output.svg", output);
   res.sendFile(__dirname + "/images/output.svg");
-});
-
-app.get("/:image", function (req, res) {
-  res.sendFile(__dirname + "/images/" + req.params.image);
 });
 
 const port = process.env.PORT || 4000;
