@@ -1,0 +1,37 @@
+html {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bolder;
+}
+
+#body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    margin: 0px 6px;
+    box-shadow: 0px 0px 4px #555555;
+    border-radius: 12px;
+    height: 90px;
+    width: 70px;
+}
+
+.card > h1 {
+    margin: 0px 8px;
+    font-size: xx-large;
+}
+
+.card > img {
+    margin: 0px 14px;
+    width: 42px;
+}
+
+.red {
+    color: #e62828;
+}
+
+#result {
+    flex-grow: 1;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "jer3myhsu",
+  "version": "1.0.0",
+  "description": "My name is Jeremy Hsu and I am a student at the University of Toronto Scarborough Campus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jer3myHsu/Jer3myHsu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jer3myHsu/Jer3myHsu/issues"
+  },
+  "homepage": "https://github.com/Jer3myHsu/Jer3myHsu#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="120" width="600">
+  <foreignObject height="120" width="600">
+    <div id="body" xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+@font-face {font-family: "Dosis"; src: url(__dirname + "../font/Dosis-bold.ttf");}
+#body {font-family: "Dosis", sans-serif;font-weight: bolder;display: flex;flex-wrap: wrap;padding: 5px;}
+.card {background-color: white;margin: 0px 6px;box-shadow: 0px 0px 4px #555555;border-radius: 12px;height: 90px;width: 70px;}
+.card > h1 {margin: 0px 8px;font-size: xx-large;}
+.card > img {margin: 0px 14px;width: 42px;}
+.red {color: #e62828;}
+#result {margin-left: 20px;}
+    </style>
+      <div class="card (breakpoint)">
+        <h1>(breakpoint)</h1>
+        <img src="(breakpoint)"></img>
+      </div>
+      <div class="card (breakpoint)">
+        <h1>(breakpoint)</h1>
+        <img src="(breakpoint)"></img>
+      </div>
+      <div class="card (breakpoint)">
+        <h1>(breakpoint)</h1>
+        <img src="(breakpoint)"></img>
+      </div>
+      <div class="card (breakpoint)">
+        <h1>(breakpoint)</h1>
+        <img src="(breakpoint)"></img>
+      </div>
+      <div class="card (breakpoint)">
+        <h1>(breakpoint)</h1>
+        <img src="(breakpoint)"></img>
+      </div>
+      <h1 id="result">(breakpoint)</h1>
+    </div>
+  </foreignObject>
+</svg>
