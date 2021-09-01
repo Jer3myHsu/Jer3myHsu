@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-My name is Jeremy Hsu and I am a 3rd year student at the University of Toronto Scarborough Campus.
+My name is Jeremy Hsu and I am a 4th year student at the University of Toronto Scarborough Campus.
 
 Lets play Poker!
 
