@@ -1,7 +1,4 @@
 # Welcome to my GitHub 👋
 
-My name is Jeremy Hsu and I am a 4th year student at the University of Toronto Scarborough Campus.
+My name is Jeremy Hsu and I am a University of Toronto Scarborough Campus Alumni. I am currently working at (Avesdo)[https://avesdo.com/]
 
-Lets play Poker!
-
-<img src="https://jer3myhsu-cards.herokuapp.com/cards" alt="Reload the page to see the cards" height="100pt"></img>
